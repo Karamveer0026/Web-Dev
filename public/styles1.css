@@ -1,0 +1,178 @@
+*{
+  margin: 0;
+
+}
+body {
+  font-family: 'Secular One', sans-serif;
+  width: 100%;
+  margin: 0px;
+}
+.title {
+  width: 100%;
+    margin: 0px;
+  height: 43rem;
+  background-color: #1A1C20;
+}
+.top {
+  color: white;
+font-family: 'Secular One', sans-serif;
+  line-height: 1.5;
+  padding: 20px;
+   font-size: 50px;
+}
+.navbar-brand{
+  color:#E04D01;
+font-family: 'Secular One', sans-serif;
+}
+.nav-link{
+  color:#E04D01;
+}
+.row {
+
+}
+.last {
+
+  width: 25%;
+  position: absolute;
+  bottom: 50px;
+}
+.button {
+  padding:20px;
+
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+.up {
+
+
+color: #E04D01;
+
+
+border-color:#E04D01
+
+
+}
+.image {
+  height:10rem;
+}
+.nav-item {
+  padding:0 15px;
+  font-size: 1.5rem;
+}
+.down{
+  margin:5%;
+}
+.features {
+    margin: 0px;
+  width: 100%;
+  padding:8% 16%;
+  background-color: white;
+}
+.feauture {
+  text-align: center;
+}
+h3 {
+  font-weight: bold;
+  padding: 2%;
+  color: #E04D01;
+}
+p {
+    color: black;
+}
+.fa-solid{
+  color: #E04D01;
+  padding: 8%;
+
+}
+.fa-regular {
+    color: #E04D01;
+      padding: 8%;
+}
+.icon:hover{
+  color:#73777B;
+}
+.button:hover {
+    color:white;
+}
+.right:hover{
+      color:white;
+}
+
+#testimonials {
+    margin: 0px;
+  width: 100%;
+  padding: 7% 15%;
+  text-align:center;
+  background-color:#1A1C20;
+}
+h2 {
+  color: white;
+  font-family: 'Secular One', sans-serif;
+    line-height: 1.5;
+    font-size: 3rem;
+}
+.joel {
+  width: 20%;
+  border-radius: 100%;
+  margin: 5% 10%;
+}
+#press {
+    margin: 0px;
+  width: 100%;
+  text-align:center;
+  background-color:#1A1C20;
+  padding-bottom: 3%;
+}
+.media1 {
+  width:10%;
+}
+.media {
+    color: white;
+    margin: 3%;
+
+}
+.ellie {
+  width: 30%;
+  border-radius: 100%;
+  margin: 5% 10%;
+
+}
+.price {
+  color: #E04D01;
+text-align:center;
+padding: 3%;
+}
+.rate {
+  color:black;
+}
+.col {
+padding: 5%;
+}
+.card {
+
+}
+#pricing {
+    margin: 0px;
+  width: 100%;
+}
+#cta {
+    margin: 0px;
+  width: 100%
+  padding: 5%;
+  text-align:center;
+  background-color:#1A1C20;
+}
+#footer {
+    margin: 0px;
+width: 100%;
+  text-align:center;
+  background-color:#1A1C20;
+}
+.xy{
+    color: #E04D01;
+padding: 3% 6%;
+}
+.xy:hover{
+  color:white;
+}
